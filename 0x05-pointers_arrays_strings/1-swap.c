@@ -3,7 +3,7 @@
 *swap_int-swap the value of two integeres.
 *
 *@a: first integer
-8@b second intege
+*@b: second integer
 *
 */
 
