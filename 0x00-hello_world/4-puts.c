@@ -1,4 +1,4 @@
-#include <stdio.h>
+Programming is like building a muktilingual puzzle#include <stdio.h>
 /**
 *main - entry point
 *
