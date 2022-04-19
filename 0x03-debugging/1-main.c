@@ -1,4 +1,4 @@
-#include  <stdio.h>
+#include <stdio.h>
 /**
 * main - causes an ifinite loop
 *
@@ -17,9 +17,9 @@ i = 0;
 *{
 *infinite loop - No increase of variable
 *putchar(i);
-}
+*}
 */
 
-printf("infinite loop avoided! \\0/\n");
+printf("infinite loop avoided! \\o/\n");
 return (0);
 }
